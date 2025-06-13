@@ -1,0 +1,13 @@
+payment-service/
+│
+├── src/
+│   ├── controllers/
+│   ├── routes/
+│   ├── graphql/
+│   ├── services/
+│   └── index.js
+│
+├── .env
+├── Dockerfile
+├── package.json
+├── docker-compose.yml (di root atau lokal opsional)
